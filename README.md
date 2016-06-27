@@ -59,11 +59,11 @@ Users.remove(id);
 ```
 **GET SERVER INFO SESSION EXAMPLE**
 
-* IF GET IP WITH SERVER INFORMATION
+* GET SERVER INFORMATION
 ```js
 Users.server();
 ```
-* USE IT
+* EXEMPLE FOR GET IP
 ```js		
 var server = Users.server();
 
