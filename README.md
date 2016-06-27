@@ -9,6 +9,10 @@ For contact us [Webartec](http://webartec.fr/)
 
 RESTartec Api is an open source Javascript library for the AngularJS, Ionic API. With RESTartec API you have Javascript access to the database with own methods :
 
+## Next update
+* Add OAuth 2.0 server
+* Upload part client for use it
+
 ## Install
 
 Download ZIP
