@@ -1,4 +1,4 @@
-# RESTartec
+# RESTartec SERVER/CLIENT
 Api RESTartec for AngularJS (Ionic Framework)
 
 
@@ -10,15 +10,19 @@ RESTartec Api is an open source Javascript library for the AngularJS, Ionic API.
 
 ## Install
 
+Download ZIP
 * Download the zipfile from this project and install it.
+Git Clone 
 * Checkout the source: git clone https://github.com/ShineOfFire/RESTartec/ and install it yourself.
+Bower
+* Bower install RESTartec
 
 ## Getting Started :
 
-* Install RESTartec
+* Install RESTartec 
 * find, set, update, remove, server
 
-## Examples
+## HOW TO USE
 
 **ELEMENT GET FIND EXAMPLE**
 
