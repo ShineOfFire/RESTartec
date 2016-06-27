@@ -31,10 +31,9 @@ Users.find(id);
 ```js
 Users.find();
 ```
-
 **ELEMENT POST CREATE EXAMPLE**
 
-	* INSERT ELEMENT WITH DATA PARAMS OBJECT
+* INSERT ELEMENT WITH DATA PARAMS OBJECT
 ```js
 var data = $.param({
 	login: 'toto'
@@ -44,30 +43,30 @@ Users.set(data);
 ```
 **PUT UPDATE EXAMPLE**
 
-	* UPDATE ELEMENT WITH ID AND DATA PARAMS OBJECT
+* UPDATE ELEMENT WITH ID AND DATA PARAMS OBJECT
+```js
+var data = $.param({
+	login: 'toto'
+});
 
-		var data = $.param({
-			    login: 'toto'
-			});
-
-		Users.update(id, data);
-
+Users.update(id, data);
+```
 **DELETE CREATE EXAMPLE**
 
-	* UPDATE ELEMENT WITH ID AND DATA PARAMS OBJECT
-
-		Users.remove(id);
-
+* UPDATE ELEMENT WITH ID AND DATA PARAMS OBJECT
+```js
+Users.remove(id);
+```
 **GET SERVER INFO SESSION EXAMPLE**
 
-	* IF GET IP WITH SERVER INFORMATION
+* IF GET IP WITH SERVER INFORMATION
+```js
+Users.server();
+```
+* USE IT
+```js		
+var server = Users.server();
 
-		Users.server();
-
-	* USE IT
-		
-		var server = Users.server();
-
-		server.REMOTE_ADDR; //Return the client ip
-
+server.REMOTE_ADDR; //Return the client ip
+```
 *Create By Ryadh KRALFALLAH 27.05.2016*
