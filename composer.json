@@ -1,0 +1,8 @@
+{
+    "require": {
+        "slim/slim": "~2.6",
+        "slim/views": "~0.1",
+        "twig/twig": "~1.0",
+        "bshaffer/oauth2-server-php": "~1.8"
+    }
+}
