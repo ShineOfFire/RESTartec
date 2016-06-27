@@ -1,0 +1,18 @@
+{
+  "name": "RESTartec",
+  "authors": [
+    "ShineOfFire <hakrya@hotmail.fr>"
+  ],
+  "description": "API Rest Javascript",
+  "main": "index.php",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "webartec.fr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
