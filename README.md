@@ -78,4 +78,4 @@ var server = Users.server();
 
 server.REMOTE_ADDR; //Return the client ip
 ```
-*Create By Ryadh KRALFALLAH 27.05.2016*
+*Create By Ryadh KRALFALLAH 27.06.2016*
