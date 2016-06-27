@@ -23,9 +23,10 @@ RESTartec Api is an open source Javascript library for the AngularJS, Ionic API.
 **ELEMENT GET FIND EXAMPLE**
 
 	* WITH ID 		|	For one element
-	```js
-	Users.find(id);
-	```
+```js
+md_content = "Hello.\n\n* This is markdown.\n* It is fun\n* Love it or leave it."
+html_content = markdown.toHTML( md_content );
+```
 	* WITHOUT ID 	|	For all elements
 
 		Users.find();
