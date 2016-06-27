@@ -1,6 +1,7 @@
 # RESTartec SERVER/CLIENT
-Api RESTartec for AngularJS (Ionic Framework)
+![GitHub Logo](https://raw.githubusercontent.com/ShineOfFire/RESTartec/master/restartec.png)
 
+Api RESTartec for AngularJS (Ionic Framework)
 
 # RESTartec API USE ON CLIENT APP ANGULARJS (IONIC)
 
